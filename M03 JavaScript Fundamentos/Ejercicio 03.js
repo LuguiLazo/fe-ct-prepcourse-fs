@@ -59,7 +59,7 @@ function esPar(num) {
 
 function esImpar(num) {
    // Retorna true si "num" es impar.
-   int n=0;
+      
    if (num==2n+1){
       return "true";
    }else {
