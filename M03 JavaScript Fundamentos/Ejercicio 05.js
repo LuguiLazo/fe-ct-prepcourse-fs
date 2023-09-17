@@ -10,12 +10,13 @@ function esPositivo(num) {
    // Tu código:
    if (num>0){
       return ("Es positivo");
-   }if else (num<0){
+   } else if (num<0){
       return ("Es negativo");
    }else{
-      return ("false"),
+      return ("false");
    }
 }
+
 
 function agregarSimboloExclamacion(str) {
    // Agrega un símbolo de exclamación al final del string "str" y retórnalo
